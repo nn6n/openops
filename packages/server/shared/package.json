@@ -9,7 +9,7 @@
     "@openops/shared": "*",
     "fastify": "4.12.0",
     "async-mutex": "0.4.0",
-    "@sinclair/typebox": "0.32.35",
+    "@sinclair/typebox": "0.34.33",
     "@openops/blocks-framework": "0.7.34",
     "clear-module": "4.1.2",
     "redlock": "5.0.0-beta.2"
